@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+<h1>Hi there! I am Prapti✨</h1>
+  
+![a3e8998aad8a9270eb4fd41f8edb268c](https://github.com/user-attachments/assets/88b812c3-8304-4abd-b81f-592d6e6f5532)
+
+🔭 I’m a computer science undergrad <br>
+🌱 I’m currently working on a research paper <br>
+📫 Books, laptop and coffee is all I need for a great day 
+</div>
+
+
 
 <!--
 **bhardwajprapti/bhardwajprapti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
